@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\Visual Studio 2022\\AdditionofTwoNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7805951-68F5-439D-A74B-038BD03F7709}|AdditionofTwoNumbers\\AdditionofTwoNumbers.csproj|c:\\users\\1\\documents\\visual studio 2022\\additionoftwonumbers\\additionoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7805951-68F5-439D-A74B-038BD03F7709}|AdditionofTwoNumbers\\AdditionofTwoNumbers.csproj|solutionrelative:additionoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\Visual Studio 2022\\AdditionofTwoNumbers\\AdditionofTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "AdditionofTwoNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\Visual Studio 2022\\AdditionofTwoNumbers\\AdditionofTwoNumbers\\Program.cs",
+              "RelativeToolTip": "AdditionofTwoNumbers\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:38:07.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

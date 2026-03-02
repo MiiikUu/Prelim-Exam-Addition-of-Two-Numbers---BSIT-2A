@@ -1,0 +1,7 @@
+C:\Users\1\Documents\Visual Studio 2022\AdditionofTwoNumbers\AdditionofTwoNumbers\bin\Debug\AdditionofTwoNumbers.exe.config
+C:\Users\1\Documents\Visual Studio 2022\AdditionofTwoNumbers\AdditionofTwoNumbers\bin\Debug\AdditionofTwoNumbers.exe
+C:\Users\1\Documents\Visual Studio 2022\AdditionofTwoNumbers\AdditionofTwoNumbers\bin\Debug\AdditionofTwoNumbers.pdb
+C:\Users\1\Documents\Visual Studio 2022\AdditionofTwoNumbers\AdditionofTwoNumbers\obj\Debug\AdditionofTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2022\AdditionofTwoNumbers\AdditionofTwoNumbers\obj\Debug\AdditionofTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Visual Studio 2022\AdditionofTwoNumbers\AdditionofTwoNumbers\obj\Debug\AdditionofTwoNumbers.exe
+C:\Users\1\Documents\Visual Studio 2022\AdditionofTwoNumbers\AdditionofTwoNumbers\obj\Debug\AdditionofTwoNumbers.pdb
